@@ -5,7 +5,7 @@ import os
 import sys
 import xmltodict
 
-from Syobopy.SyoboiAPI.SyoboiBaseAPI import SyoboiBaseAPI
+from Syobocal.SyoboiAPI.SyoboiBaseAPI import SyoboiBaseAPI
 
 class DB(SyoboiBaseAPI):
 

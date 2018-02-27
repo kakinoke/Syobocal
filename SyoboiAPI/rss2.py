@@ -5,7 +5,7 @@ import os
 import xmltodict
 from urllib.request import urlopen
 
-from Syobopy.SyoboiAPI.SyoboiBaseAPI import SyoboiBaseAPI
+from Syobocal.SyoboiAPI.SyoboiBaseAPI import SyoboiBaseAPI
 
 class RSS2(SyoboiBaseAPI):
 
