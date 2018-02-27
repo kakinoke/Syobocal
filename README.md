@@ -1,11 +1,11 @@
-# Syobopy
+# Syobocal-py
 
 Syobocal-py is [Syoboi Calender](http://cal.syoboi.jp/) API wrapper for python
 
 
 ## Usage
 
-  from Syobocalpy.client import Client
+  from Syobocal.client import Client
 
   client = Client()
 
